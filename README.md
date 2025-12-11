@@ -1,7 +1,5 @@
-# NYC Restaurant Inspection Results (DOHMH) 
+# [NYC Restaurant Inspection Results (DOHMH)](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j)
 ## By Jolie Ng, Rameez Rauf and Yuthi Madireddy
-
-(Data Found at )[https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j]
 
 ## Goal:
 The goal of this project is to build and compare multiple machine learning models to predict New York City restaurant health inspection outcomes. Our team applied penalized linear models, ensemble methods, support vector machines, and neural networks to understand which approaches work best and what features drive predictive performance.
