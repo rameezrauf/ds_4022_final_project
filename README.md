@@ -28,7 +28,7 @@ To run the notebooks in this repository, you will need:
 
 
 ## Section 2:
-Project-Folder/
+ds_4022_final_project/
 
 - README.md
 - final_report.pdf
