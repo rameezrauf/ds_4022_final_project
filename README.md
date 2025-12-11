@@ -41,8 +41,14 @@ ds_4022_final_project/
 	- train_NYC_inspection.parquet
 	- test_NYC_inspection.parquet
  	- raw/
- 		- data_split.py		#For getting and splitting data 
+ 		- data_split.py
 
 - Outputs/
 	- EDA/
+ 		- grade_distribution.png
+ 		- nyc_numerical_histogram.png
 	- figures/
+ 		- final_test_confusion_matrix.png
+ 		- tinal_test_confusion_matrix.png
+ 		- linear_svc_confusion_matrix.png
+ 		- logreg_balanced_confusion.png
