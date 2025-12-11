@@ -20,8 +20,6 @@ KEEP_COLS = [
     "INSPECTION DATE",
     "BUILDING",
     "STREET",
-    # Needed to build our Pass/Fail label
-    "SCORE",
     "GRADE"
 ]
 
