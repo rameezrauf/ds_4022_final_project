@@ -10,21 +10,21 @@ The goal of this project is to build and compare multiple machine learning model
 To run the notebooks in this repository, you will need:
 
 **Core Tools**
-	•	Python 3.10+
-	•	Jupyter Notebook / JupyterLab
+- Python 3.10+
+- Jupyter Notebook / JupyterLab
 
 **Required Python Packages**
-	•	pandas
-	•	numpy
-	•	scikit-learn
-	•	matplotlib
-	•	seaborn
-	•	pyarrow
-	•	imbalanced-learn
-	•	torch
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- pyarrow
+- imbalanced-learn
+- torch
 
 **Operating System**
-	•	Compatible with macOS, Windows, or Linux
+- Compatible with macOS, Windows, or Linux
 
 
 ## Section 2:
@@ -44,5 +44,5 @@ Project-Folder/
 	- test_NYC_inspection.parquet
  	- (any additional cleaned or processed data set)
 
-- Outputs
+- Outputs/
 	- figures
