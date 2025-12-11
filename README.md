@@ -30,6 +30,7 @@ ds_4022_final_project/
 
 - README.md
 - final_report.pdf
+- .gitignore
 - Notebooks/
 	- 01_descriptive_analysis.ipynb
 	- 02_penalized_linear_model.ipynb
