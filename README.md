@@ -29,25 +29,20 @@ To run the notebooks in this repository, you will need:
 
 ## Section 2:
 Project-Folder/
-│
-├── README.md                     # Overview and project documentation
-├── final_report.pdf              # Final written report
-│
-├── NOTEBOOKS/                    # All project notebooks
-│   ├── 01_descriptive_analysis.ipynb
-│   ├── 02_penalized_linear_model.ipynb
-│   ├── 03_random_forest_model.ipynb
-│   ├── 04_neural_network_model.ipynb
-│   ├── 05_svm_model.ipynb
-│   └── 06_model_comparison.ipynb
-│
-├── DATA/
-│   ├── train_NYC_inspection.parquet
-│   ├── test_NYC_inspection.parquet
-│   └── (any additional cleaned or processed datasets)
-│
-└── OUTPUT/
-    ├── figures/                  # Outputs for deck
-    ├── feature_importance/       # Saved plots of model interpretations
-    └── final_predictions/        # Predictions from finalized models
 
+- README.md
+- final_report.pdf
+- Notebooks/
+	- 01_descriptive_analysis.ipynb
+	- 02_penalized_linear_model.ipynb
+	- 03_random_forest_model.ipynb
+	- 04_neural_network_model.ipynb
+	- 05_svm_model.ipynb
+ 	- 06_model_comparison.ipynb
+- Data/
+	- train_NYC_inspection.parquet
+	- test_NYC_inspection.parquet
+ 	- (any additional cleaned or processed data set)
+
+- Outputs
+	- figures
