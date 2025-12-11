@@ -33,14 +33,15 @@ ds_4022_final_project/
 - Notebooks/
 	- 01_descriptive_analysis.ipynb
 	- 02_penalized_linear_model.ipynb
-	- 03_random_forest_model.ipynb
+	- 03_ensemble_model.ipynb
 	- 04_neural_network_model.ipynb
 	- 05_svm_model.ipynb
  	- 06_model_comparison.ipynb
 - Data/
 	- train_NYC_inspection.parquet
 	- test_NYC_inspection.parquet
- 	- (any additional cleaned or processed data set)
+ 	- raw/
+ 		- data_split.py		#For getting and splitting data 
 
 - Outputs/
-	- figures
+	- figures/
