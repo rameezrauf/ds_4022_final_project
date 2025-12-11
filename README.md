@@ -44,4 +44,5 @@ ds_4022_final_project/
  		- data_split.py		#For getting and splitting data 
 
 - Outputs/
+	- EDA/
 	- figures/
